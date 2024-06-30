@@ -1,0 +1,23 @@
+{
+    "produtos": [
+        {
+            "nome": "Darth Vader",
+            "preco": "50",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_975969-MLA46467090682_062021-O.webp", 
+            "id":"1"
+        },
+        {
+            "nome": "Flash",
+            "preco": "25",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp", 
+            "id":"2"
+        },
+        {
+            "nome": "Batman",
+            "preco": "35",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp", 
+            "id":"3"
+        }
+    ]
+}
+
